@@ -1,8 +1,12 @@
+
+![repo oluşturma](kodluyoruz_repo.png)
+
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet READ.me dosyası bir adet de index.html dosyası barındırıyor.
 
 # Installation
-Öncelikle projeyi clonelayın.[Proje Clone Link](https://github.com/canbayazit/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın.Öncelikle projeyi clonelayın. https://github.com/canbayazit/kodluyoruzilkrepo.git
+
 
 ```
 git clone https://github.com/canbayazit/kodluyoruzilkrepo.git
